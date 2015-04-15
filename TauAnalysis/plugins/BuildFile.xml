@@ -1,0 +1,11 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="DataFormats/HepMCCandidate"/>
+<use name="DataFormats/Candidate"/>
+<use name="SimDataFormats/GeneratorProducts"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="rootmath"/>
+<use name="geant4core"/>
+<use name="root"/>
+<flags EDM_PLUGIN="1"/>
